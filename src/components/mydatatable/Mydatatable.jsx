@@ -9,15 +9,16 @@ const columns = [
 ];
 
 const rows = [
-  { id: 1, lastName: "Snow", firstName: "Jon", age: 35 },
-  { id: 2, lastName: "Lannister", firstName: "Cersei", age: 42 },
-  { id: 3, lastName: "Lannister", firstName: "Jaime", age: 45 },
-  { id: 4, lastName: "Stark", firstName: "Arya", age: 16 },
-  { id: 5, lastName: "Targaryen", firstName: "Daenerys", age: null },
-  { id: 6, lastName: "Melisandre", firstName: null, age: 150 },
-  { id: 7, lastName: "Clifford", firstName: "Ferrara", age: 44 },
-  { id: 8, lastName: "Frances", firstName: "Rossini", age: 36 },
-  { id: 9, lastName: "Roxie", firstName: "Harvey", age: 65 },
+  { id: 1, firstName: "Coffee"},
+  { id: 2, firstName: "Milk"},
+  { id: 3, firstName: "Sugar"},
+  { id: 4, firstName: "Cake"},
+  { id: 5, firstName: "Pastry"},
+  { id: 6, firstName: "Cookie"},
+  { id: 7, firstName: "Soda"},
+  { id: 8, firstName: "Tea"},
+  { id: 9, firstName: "Lemontea"},
+  { id: 10, firstName: "Pop ice"},
 ];
 
 const actionColumn = [
